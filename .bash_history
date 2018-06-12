@@ -705,3 +705,65 @@ ls
 yum remove maven
 dhclient -v
 init 0
+mvn
+yum install maven
+sudo yum install maven
+yum update
+systemctl restart jenkins
+dhclient -v
+mvn
+yum install maven
+net tools
+nettools
+git remote
+ls
+ls -a
+init 0
+ls
+git remote git remote add origin https://github.com/kolukulasrinivasa/prod2.git
+git remote add origin https://github.com/kolukulasrinivasa/prod2.git
+git push origin https://github.com/kolukulasrinivasa/prod2.git
+git push -u origin master
+touch "mynewfile" > file6.txt
+git add .
+git push origin master
+git push origin https://github.com/kolukulasrinivasa/prod2
+git push origin https://github.com/kolukulasrinivasa/prod2.git
+git push origin http://github.com/kolukulasrinivasa/prod2.git
+git config --global --unset http.proxy
+git push origin http://github.com/kolukulasrinivasa/prod2.git
+git config --global --set http.proxy
+git push origin http://github.com/kolukulasrinivasa/prod2.git
+git push origin https://github.com/kolukulasrinivasa/prod2.git
+git add README.md
+git remote
+git checkout master
+git checkout branch master
+ls
+git add .
+git push origin https://github.com/kolukulasrinivasa/prod3.git
+git push origin https://github.com/kolukulasrinivasa/prod2.git
+git remote add origin https://github.com/kolukulasrinivasa/prod3.git
+git push -u origin master
+git remote add origin https://github.com/kolukulasrinivasa/prod3.git
+git remote add https://github.com/kolukulasrinivasa/prod3.git
+git remote https://github.com/kolukulasrinivasa/prod3.git
+git push -u origin master
+checkout master
+git checkout master
+remote
+git remote
+git checkout master
+git checkout /master
+ping https://github.com/kolukulasrinivasa/prod3.git
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/kolukulasrinivasa/prod.git
+git push -u origin master
+git remote add origin https://github.com/kolukulasrinivasa/prod.git
+git push -u origin master
+git config --global --unset credential.helper
+git config --system --unset credential.helper
+git push -u origin master
+git config --global --unset http.proxy
