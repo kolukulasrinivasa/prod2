@@ -4,7 +4,7 @@
 
     <groupId>com.test</groupId>
     <artifactId>web</artifactId>
-    <version>web</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <name>Spring Boot GAE Blank Project (from https://github.com/making/spring-boot-gae-blank)</name>
